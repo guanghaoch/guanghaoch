@@ -1,0 +1,8 @@
+<svg viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="240" fill="#f0f3f7"/>
+  <rect x="40" y="60" width="70" height="70" fill="#3498db" rx="8"/>
+  <rect x="130" y="60" width="70" height="70" fill="#1abc9c" rx="8"/>
+  <rect x="40" y="145" width="70" height="70" fill="#f39c12" rx="8"/>
+  <rect x="130" y="145" width="70" height="70" fill="#e67e22" rx="8"/>
+  <text x="120" y="230" text-anchor="middle" font-family="Arial" font-size="18" fill="#333">Design C</text>
+</svg>
