@@ -20,12 +20,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Minima header pages
-header_pages:
-  - about.md
-  - gallery.md
-  - contact.md
-
 # Exclude from processing
 exclude:
   - Gemfile

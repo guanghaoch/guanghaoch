@@ -1,6 +1,7 @@
 ---
-icon: fas fa-info-circle
-order: 4
+layout: page
+title: About
+permalink: /about/
 ---
 
 # About Me
@@ -28,4 +29,4 @@ When I'm not coding or taking photos, you can find me:
 
 ## Get In Touch
 
-Feel free to reach out if you'd like to collaborate or just say hello!
+Feel free to [contact me](/contact) if you'd like to collaborate or just say hello!
