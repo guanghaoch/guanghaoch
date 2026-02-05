@@ -1,0 +1,29 @@
+<footer class="site-footer h-card">
+  <div class="wrapper">
+    <div style="text-align: center; padding: 20px 0;">
+      <p>{{ site.description | escape }}</p>
+      
+      <div style="margin: 15px 0;">
+        {%- if site.github_username -%}
+        <a href="https://github.com/{{ site.github_username }}" style="margin: 0 10px;">GitHub</a>
+        {%- endif -%}
+        {%- if site.twitter_username -%}
+        <a href="https://twitter.com/{{ site.twitter_username }}" style="margin: 0 10px;">Twitter</a>
+        {%- endif -%}
+        {%- if site.linkedin_username -%}
+        <a href="https://linkedin.com/in/{{ site.linkedin_username }}" style="margin: 0 10px;">LinkedIn</a>
+        {%- endif -%}
+        {%- if site.author.email -%}
+        <a href="mailto:{{ site.author.email }}" style="margin: 0 10px;">Email</a>
+        {%- endif -%}
+        {%- if site.google_scholar_username -%}
+        <a href="https://scholar.google.com/citations?user={{ site.google_scholar_username }}" style="margin: 0 10px;">Google Scholar</a>
+        {%- endif -%}
+      </div>
+      
+      <p style="font-size: 14px; color: #828282;">
+        &copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.
+      </p>
+    </div>
+  </div>
+</footer>
