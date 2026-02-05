@@ -12,7 +12,7 @@
 - 🔭 I'm currently working on **exciting projects**
 - 🌱 I'm constantly learning and improving my skills
 - 💬 Ask me about **software development, coding, and technology**
-- 📫 How to reach me: **guanghaoch@github.com**
+- 📫 How to reach me: **[GitHub Profile](https://github.com/guanghaoch)**
 - ⚡ Fun fact: **I love solving complex problems with elegant solutions**
 
 ---
