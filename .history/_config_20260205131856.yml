@@ -1,0 +1,19 @@
+# Jekyll Site Configuration
+title: Guanghao Chen
+description: Visual portfolio and showcase
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://guanghaoch.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-cayman
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
