@@ -1,6 +1,0 @@
-<svg viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
-  <rect width="240" height="240" fill="#fef5e7"/>
-  <polygon points="120,40 180,160 60,160" fill="#e74c3c" opacity="0.8"/>
-  <polygon points="120,100 160,180 80,180" fill="#9b59b6" opacity="0.7"/>
-  <text x="120" y="220" text-anchor="middle" font-family="Arial" font-size="18" fill="#333">Design B</text>
-</svg>
